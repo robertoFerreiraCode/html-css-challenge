@@ -24,3 +24,17 @@ p {
     text-decoration: underline;
     font-style: italic;
 }
+
+.movies > h3 {
+    color: crimson;
+}
+
+.movies > dl {
+    border: 2px dotted coral;
+    font-weight: bold;
+}
+
+.movies #firstItem {
+    text-decoration: underline lightseagreen;
+    font-weight: lighter;
+}
