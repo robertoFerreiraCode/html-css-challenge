@@ -24,3 +24,17 @@ p {
     text-decoration: underline;
     font-style: italic;
 }
+
+.books > h3 {
+    color: cadetblue;
+}
+
+.books > dl {
+    border: 2px solid grey;
+    font-weight: bold;
+}
+
+.books #firstItem {
+    text-decoration: underline blueviolet;
+    font-weight: bolder;
+}
