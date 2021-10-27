@@ -24,3 +24,31 @@ p {
     text-decoration: underline;
     font-style: italic;
 }
+
+.movies > h3 {
+    color: crimson;
+}
+
+.movies > dl {
+    border: 2px dotted coral;
+    font-weight: bold;
+}
+
+.movies #firstItem {
+    text-decoration: underline lightseagreen;
+    font-weight: lighter;
+}
+
+.books > h3 {
+    color: cadetblue;
+}
+
+.books > dl {
+    border: 2px solid grey;
+    font-weight: bold;
+}
+
+.books #firstItem {
+    text-decoration: underline blueviolet;
+    font-weight: bolder;
+}
